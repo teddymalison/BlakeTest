@@ -1,0 +1,36 @@
+body {
+	background-color: darkslategrey;
+	font-size: 100%
+}
+
+#title {
+	color: white;
+	font-size: 1.5em;
+	font-family: sans-serif;
+}
+
+#mainColumn {
+	margin: 0 auto;
+	width: 90%;
+}
+#nav {
+	width: 20%;
+	float: left;
+	background: lightgrey;
+	padding: 0 .25em;
+}
+#nav h2{
+	font-size:1em;
+}
+#content {
+	float: left;
+	width: 75%;
+	background-color: white;
+	padding: 1em;
+	font-family: serif;
+}
+#illustration {
+	text-align: center;
+	float: right;
+}
+
